@@ -16,6 +16,10 @@
       {
         "command": "tuist.helloWorld",
         "title": "Hello World"
+      },
+      {
+        "command": "tuist.launchSimulator",
+        "title": "Launch simulator"
       }
     ]
   },
