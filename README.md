@@ -1,16 +1,13 @@
-# tuist README
+# tuist-vscode
 
-This is the README for your extension "tuist". After writing up a brief description, we recommend including the following sections.
+This repository contains a Tuist extension for [VSCode](https://code.visualstudio.com/) or VSCode-based editors like [Cursor](https://www.cursor.com/), [Theia](https://theia-ide.org/), or [VSCodium](https://vscodium.com/).
+
+> ![WARNING]
+> The extension is being worked on. 
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
 
-For example if there is an image subfolder under your extension project workspace:
-
-\!\[feature X\]\(images/feature-x.png\)
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
 
 ## Requirements
 
