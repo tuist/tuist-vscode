@@ -2,7 +2,7 @@
 
 This repository contains a Tuist extension for [VSCode](https://code.visualstudio.com/) or VSCode-based editors like [Cursor](https://www.cursor.com/), [Theia](https://theia-ide.org/), or [VSCodium](https://vscodium.com/).
 
-> ![WARNING]
+> [!WARNING] 
 > The extension is being worked on. 
 
 ## Features
